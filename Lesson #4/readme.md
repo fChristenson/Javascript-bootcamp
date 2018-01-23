@@ -4,7 +4,7 @@
 
 * What is Npm?
 * How do I create a npm project?
-* How do I install a package globally?
+* How do I install a package globaly?
 
 ## Steps
 
