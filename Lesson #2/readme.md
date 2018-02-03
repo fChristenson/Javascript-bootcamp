@@ -8,5 +8,5 @@
 
 ## Steps
 
-* Install Node from https://nodejs.org/en/download/
+* Install Node from `https://nodejs.org/en/download/`
 * Run `node hello_world.js`

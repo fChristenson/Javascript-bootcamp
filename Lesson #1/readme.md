@@ -7,5 +7,5 @@
 
 ## Steps
 
-* Install git from https://git-scm.com/downloads
-* Clone code from https://github.com/fChristenson/Javascript-bootcamp
+* Install git from `https://git-scm.com/downloads`
+* Clone code from `https://github.com/fChristenson/Javascript-bootcamp`
