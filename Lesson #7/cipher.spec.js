@@ -7,21 +7,9 @@ describe("Caesar cipher test", () => {
     expect(actual).toEqual(expected);
   });
 
-  it("adds a big positive number to the character code", () => {
-    let expected = "aaa";
-    let actual = cipher("aaa", 27);
-    expect(actual).toEqual(expected);
-  });
-
   it("adds a negative number to the character code", () => {
     let expected = "aaa";
     let actual = cipher("bbb", -1);
-    expect(actual).toEqual(expected);
-  });
-
-  it("adds a big negative number to the character code", () => {
-    let expected = "aaa";
-    let actual = cipher("bbb", -28);
     expect(actual).toEqual(expected);
   });
 });
