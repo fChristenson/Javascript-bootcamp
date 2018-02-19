@@ -1,3 +1,1 @@
-module.exports = function(thing) {
-  return thing.name;
-};
+module.exports = function(thing) {};
